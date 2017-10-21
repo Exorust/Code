@@ -1,2 +1,2 @@
 # Code
-  This is a github page showing most of the coding that I have done this summer.
+  This is most of the C code developed over the Summer of 2017. It's all the algorthms I implemented in C. 
